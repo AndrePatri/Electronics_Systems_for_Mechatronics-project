@@ -1,2 +1,2 @@
-# PROGETTO_Sistemi_Elettronici_Per_La_Meccatronica
+# Progetto esame Sistemi Elettronici Per La Meccatronica
 "Sistemi Elettronici Per La Meccatronica" project folder
